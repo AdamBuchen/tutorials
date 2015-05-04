@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7D80575A-072F-4892-B143-203BBC2D24FB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>76EBE108E6BC6951EB7F841A01FA690F82FD0247</key>
+		<string>github.com:AdamBuchen/tutorials.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>swift/Hello World/Hello World.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>76EBE108E6BC6951EB7F841A01FA690F82FD0247</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:AdamBuchen/tutorials.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>76EBE108E6BC6951EB7F841A01FA690F82FD0247</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>76EBE108E6BC6951EB7F841A01FA690F82FD0247</string>
+			<key>IDESourceControlWCCName</key>
+			<string>tutorials</string>
+		</dict>
+	</array>
+</dict>
+</plist>
