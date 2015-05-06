@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Hello World
+//  Button Fun
 //
-//  Created by Adam Buchen on 5/4/15.
+//  Created by Adam Buchen on 5/5/15.
 //  Copyright (c) 2015 Apress. All rights reserved.
 //
 

@@ -1,15 +1,15 @@
 //
-//  Hello_WorldTests.swift
-//  Hello WorldTests
+//  Button_FunTests.swift
+//  Button FunTests
 //
-//  Created by Adam Buchen on 5/4/15.
+//  Created by Adam Buchen on 5/5/15.
 //  Copyright (c) 2015 Apress. All rights reserved.
 //
 
 import UIKit
 import XCTest
 
-class Hello_WorldTests: XCTestCase {
+class Button_FunTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

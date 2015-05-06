@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Hello World
 //
-//  Created by Skyler Fox on 5/4/15.
+//  Created by Adam Buchen on 5/4/15.
 //  Copyright (c) 2015 Apress. All rights reserved.
 //
 
